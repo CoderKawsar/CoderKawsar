@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderKawsar
 - 👀 I’m interested in Coding, Football, Cricket
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently working on MERN stack
 - 💞️ I’m looking to collaborate on Programming Tasks
 - 📫 How to reach me: coder.kawsar@gmail.com
 
